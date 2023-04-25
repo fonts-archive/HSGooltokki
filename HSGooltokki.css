@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'HSGooltokki';
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/HSGooltokki/HSGooltokki.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/HSGooltokki/HSGooltokki.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/HSGooltokki/HSGooltokki.ttf') format('truetype');
+}
